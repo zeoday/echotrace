@@ -28,6 +28,9 @@ EchoTrace 是一个**完全本地**的微信聊天记录导出、分析与年度
 > [!TIP]
 > 如果导出聊天记录后，想深入分析聊天内容可以试试 [ChatLab](https://chatlab.fun/)
 
+> [!TIP]
+> Echotrace现已停止维护 如想继续使用可以看看 [WeFlow](https://github.com/hicccc77/WeFlow/) 对应Echotrace中的实时功能 或 [密语](https://github.com/ILoveBingLu/miyu) 对应Echotrace中的备份功能  
+
 ##  快速开始
 
 面向新手的使用教程见 [此文档](docs/beginner_guide.md)
